@@ -1,16 +1,78 @@
-## Hi there 👋
+👋 Hi, I'm Abdulloh Jalilov
+🚀 Frontend Developer
+👨‍💻 About Me
+I'm a Frontend Developer focused on creating clean, responsive and interactive web experiences.
+Currently, I'm improving my skills in JavaScript, React.js, and Next.js, while building projects to strengthen my frontend development experience.
+🌱 Currently learning JavaScript
+⚛️ Learning React.js
+▲ Exploring Next.js
+🎨 Passionate about UI & responsive design
+💻 Interested in modern Web Development
+🚀 Always learning and building new projects
+🛠 Tech Stack
+🌐 Frontend
+Technology
+Level
+HTML5
+🟢 Comfortable
+CSS3
+🟢 Comfortable
+JavaScript
+🟡 Learning
+React.js
+🟡 Learning
+Next.js
+🟡 Exploring
+📚 Currently Learning
+JavaScript
+   ↓
+React.js
+   ↓
+Next.js
+   ↓
+Modern Frontend Development
+I'm currently focused on understanding:
+JavaScript fundamentals
+DOM & Events
+ES6+
+Async JavaScript
+React Components
+Props & State
+React Hooks
+Next.js fundamentals
+Responsive Web Design
+Clean & reusable UI
+🚀 My Goal
+To become a strong and professional Frontend Developer who can build modern, scalable and user-friendly web applications.
+I believe the best way to learn is to build, break, fix, and build again. 💙
+📊 GitHub Stats
+💻 Featured Skills
+const abdulloh = {
+  name: "Abdulloh Jalilov",
+  role: "Frontend Developer",
 
-<!--
-**abdulloxj24-ui/abdulloxj24-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  skills: [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Next.js"
+  ],
 
-Here are some ideas to get you started:
+  currentlyLearning: [
+    "JavaScript",
+    "React.js",
+    "Next.js"
+  ],
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  interests: [
+    "Web Development",
+    "Frontend Development",
+    "UI/UX",
+    "Responsive Design"
+  ],
+
+  goal: "Become a professional Frontend Developer"
+};
+🤝 Let's Build Something Great!
+Thanks for visiting my profile! 🚀
